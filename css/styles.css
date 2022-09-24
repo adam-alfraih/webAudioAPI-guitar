@@ -1,5 +1,5 @@
 body {
-    background-color: #DBDBDB;
+    background-color: ##F3F3F3;
 }
 
 canvas {
@@ -18,4 +18,8 @@ canvas {
     justify-content: center;
     justify-items: end;
     gap: 5px 10px;
+}
+
+input {
+    margin: 0;
 }
