@@ -4,9 +4,11 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="css/styles.css">
     <title>Document</title>
     <script src="script.js"></script>
 </head>
+
 <body>
     <canvas id="visualizer"></canvas>
     <div class="grid">
@@ -15,13 +17,13 @@
         <input type="range" min="0" max="1" value=".5" step=".01" id="volume">
         <!-- bass slider -->
         <label for="bass">Bass</label>
-        <input type="range" min="0" max="1" value=".5" step=".01" id="bass">
+        <input type="range" min="-10" max="10" value="0" id="bass">
         <!-- mid slider -->
         <label for="mid">Mid</label>
         <input type="range" min="-10" max="10" value="0" id="mid">
         <!-- treble slider -->
         <label for="treble">Treble</label>
-        <input type="range" min="0" max="1" value=".5" step=".01" id="treble">
+        <input type="range" min="-10" max="10" value="0" id="treble">
     </div> 
 </body>
 </html>
