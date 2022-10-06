@@ -20,5 +20,3 @@ You can view the <a href="https://webaudioapi-guitar.vercel.app/">deployed proje
 
 
 ![Screenshot 2022-10-06 at 14 27 47](https://user-images.githubusercontent.com/73913997/194312692-d8c09cb0-df9e-4c7b-a8a9-7a82298350bc.png)
-
------
