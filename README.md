@@ -10,6 +10,8 @@ Styling continues to be a **work in progress**.
 -   Connect your guitar to your computer and begin to play!
 -   Adjust EQ levels and amplitude with sliders in the browser.
 
+-   You may also use the microphone on your computer, but you must **use headphones**, otherwise you will experience feedback.
+
 ## Getting Started
 
 You can view the <a href="https://webaudioapi-guitar.vercel.app/">deployed project</a>.
